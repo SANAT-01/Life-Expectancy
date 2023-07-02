@@ -1,0 +1,3 @@
+['Status', 'Adult Mortality', 'infant deaths', 'Alcohol', 'Measles ', ' BMI ', 'Polio', ' HIV/AIDS', ' thinness  1-19 years', 'Income composition of resources']
+['infant deaths', 'Hepatitis B', 'Measles ', 'Total expenditure', ' HIV/AIDS', 'GDP', 'Population', ' thinness  1-19 years']
+['Year', 'Life expectancy ', 'Adult Mortality', 'infant deaths', 'Alcohol', 'Hepatitis B', 'Measles ', ' BMI ', 'Polio', 'Total expenditure', 'Diphtheria ', ' HIV/AIDS', 'GDP', 'Population', ' thinness  1-19 years', 'Income composition of resources']
